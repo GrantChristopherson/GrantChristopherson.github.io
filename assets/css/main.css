@@ -72,6 +72,10 @@ input, select, textarea {
 	appearance: none;
 }
 
+.about_me {
+	font-size: 12px;
+}
+
 /* Row */
 
 	.row {
