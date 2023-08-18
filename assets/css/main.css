@@ -74,10 +74,8 @@ input, select, textarea {
 
 .banner-image {
 	width: 100%;
-	max-height: 400px;
+	max-height: 600px;
 	object-fit: cover;
-	border-radius: 5px;
-	margin-bottom: 20px;
 }
 
 @keyframes fadeIn {
